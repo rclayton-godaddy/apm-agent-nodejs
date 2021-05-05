@@ -1,6 +1,6 @@
 {
   "name": "@rclayton-godaddy/elastic-apm-node",
-  "version": "3.14.0",
+  "version": "3.14.1",
   "description": "The official Elastic APM agent for Node.js",
   "main": "index.js",
   "types": "index.d.ts",
