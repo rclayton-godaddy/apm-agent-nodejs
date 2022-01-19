@@ -1,5 +1,5 @@
 {
-  "name": "@rclayton-godaddy/elastic-apm-node",
+  "name": "@gdcorp-digitalcare/elastic-apm-node",
   "version": "3.14.1",
   "description": "The official Elastic APM agent for Node.js",
   "main": "index.js",
@@ -40,6 +40,9 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/rclayton-godaddy/apm-agent-nodejs.git"
+  },
+  "publishConfig": {
+    "registry": "https://artifactory.secureserver.net/artifactory/api/npm/npm-digital-care-apps-local/"
   },
   "engines": {
     "node": "^8.6.0 || 10 || 12 || 13 || 14 || 15 || 16"
